@@ -3,7 +3,6 @@ package main.java;
 public class ATM {
     public static void main(String[] args) {
 
-        System.out.println(countBanknotes(3587));
     }
 
     public static int countBanknotes(int sum) {
