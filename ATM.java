@@ -1,11 +1,8 @@
 package main.java;
 
 public class ATM {
-    public static void main(String[] args) {
-
-    }
-
-    public static int countBanknotes(int sum) {
+    
+    public int countBanknotes(int sum) {
 
         int result1;
 
