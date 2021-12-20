@@ -1,7 +1,8 @@
 
 public class ATM {
-    
-    public static int countBanknotes(int sum) {
+
+
+    public int countBanknotes(int sum) {
 
         int result1;
 
@@ -57,5 +58,6 @@ public class ATM {
 
 
     }
+    
 
 }
