@@ -33,7 +33,7 @@ public class ATM {
 
             char a = str.charAt(length - 1);
 
-            String k = Character.toString(a);
+            String k = String.valueOf(a);
 
             int y = Integer.parseInt(k);
 
