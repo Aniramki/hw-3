@@ -1,4 +1,3 @@
-package main.java;
 
 public class ATM {
     
@@ -58,5 +57,7 @@ public class ATM {
 
 
     }
+
+}
 
 }
